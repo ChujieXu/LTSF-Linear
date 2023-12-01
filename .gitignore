@@ -1,0 +1,11 @@
+*.pyc
+*.pth
+*.npy
+dataset/
+result.txt
+test_results/
+results/
+logs/
+checkpoints/
+.idea
+.DS_Store
